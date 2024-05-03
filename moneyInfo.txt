@@ -1,6 +1,7 @@
 LAST NAME, FIRST NAME, DEBT OWED, RETURNS, TIME LENGTH OF DEBT, CREDIT SCORE
 Nevasartian, David, $205, $30,,
 Anath, Aathi, $0, $3.50,,
+Vu, David,,,,
 (We can add random people)
 
 
